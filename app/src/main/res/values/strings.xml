@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WatchStore</string>
+    <string name="app_title">WATCH STORE</string>
+    <string name="app_subtitle">FINE TIMEPIECES</string>
+    <string name="cart_title">Your collection</string>
+    <string name="cart_empty_title">Your cart is empty</string>
+    <string name="cart_empty_message">Explore the collection and choose a timepiece.</string>
+    <string name="action_explore">EXPLORE WATCHES</string>
+    <string name="action_add_to_cart">ADD TO CART</string>
+    <string name="action_added_to_cart">ADDED TO CART</string>
+    <string name="action_remove">REMOVE</string>
+    <string name="action_checkout">CONTINUE TO CHECKOUT</string>
+    <string name="action_got_it">GOT IT</string>
+    <string name="summary_subtotal">Subtotal</string>
+    <string name="summary_delivery">Insured delivery</string>
+    <string name="summary_delivery_free">COMPLIMENTARY</string>
+    <string name="summary_total">Total</string>
+    <string name="spec_movement">MOVEMENT</string>
+    <string name="spec_case">CASE</string>
+    <string name="spec_water">WATER</string>
+    <string name="checkout_dialog_title">Checkout ready</string>
+    <string name="checkout_dialog_text">The cart is fully functional. A payment provider or order API can be connected to this button later.</string>
+    <plurals name="timepiece_count">
+        <item quantity="one">%1$d timepiece</item>
+        <item quantity="other">%1$d timepieces</item>
+    </plurals>
+</resources>
